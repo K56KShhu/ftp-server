@@ -1,0 +1,42 @@
+# maven
+/target
+
+# idea
+/.idea
+/out
+*.iml
+*.ipr
+*.iws
+
+# IDEA metadata and output dirs
+*.ipr
+*.iws
+
+# eclipse
+.settings
+.project
+.classpath
+.log
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+*.class
+*.bak
+*.tmp
+*.log
+/bin
+
+!webapp/WEB-INF/web.xml
+webapp/
+
+# windows
+Thumbs.db
+
+# Mac
+.DS_Store
+
+# project
+/src/main/resources/db.properties
